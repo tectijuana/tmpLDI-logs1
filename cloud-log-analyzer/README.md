@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a44bb0d7-30f9-4fff-95bf-f08277476255" />
+
+
 # Mini Cloud Log Analyzer (Bash + ARM64 + GNU Make)
 
 Práctica universitaria orientada a estudiantes principiantes para reforzar fundamentos de:
@@ -128,6 +131,11 @@ Detalles de asignación docente: ver `instructor/VARIANTES.md`.
 
 ## 8) Rúbrica propuesta
 
+Toda solución debe tener:
+1. Encabezado del programador
+2. Pseudocódigo
+3. Código ARM64 comentado
+
 | Criterio | Ponderación |
 |---|---:|
 | Correctitud funcional de la variante asignada | 40% |
@@ -138,7 +146,7 @@ Detalles de asignación docente: ver `instructor/VARIANTES.md`.
 ### Criterios de descuento sugeridos
 - No compila en ARM64: hasta -40%.
 - Usa C/libc: evaluación inválida por incumplir restricción.
-- Sin evidencia de pruebas: hasta -20%.
+- Sin evidencia de pruebas: hasta -20%. Utiliar Asciinema (con su nombre y preferente), o tambien LOOM.com compartido link
 
 ---
 
