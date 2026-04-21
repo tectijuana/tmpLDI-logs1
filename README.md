@@ -1,4 +1,6 @@
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5c244a07-ce3d-4a8d-a644-2ed2b8199784" />
+
 # Práctica 1
 
 ## Implementación de un Mini Cloud Log Analyzer en ARM64
